@@ -10,7 +10,7 @@ splittedText.forEach(function(data){
 document.querySelector('.main h1').innerHTML=clutter;
 console.log(text)
 
-var anime=document.querySelector('span')
+// var anime=document.querySelector('span')
 
 gsap.to('h1 span',{
     color:"white",
